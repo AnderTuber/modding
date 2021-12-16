@@ -1,0 +1,16 @@
+[
+{
+  "modid": "al",
+  "name": "Axolotl Light",
+  "description": "Custom mod created by AxolotlCraft",
+  "version": "0.1beta",
+  "mcversion": "1.12.2,1.12.1",
+  "url": "https://axolotlcraft.site",
+  "updateUrl": "",
+  "authorList": ["axolotlcraft"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
